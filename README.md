@@ -154,7 +154,7 @@ Add images, GIFs, or screenshots if helpful!
 
 ### Requirements:
 - Node.js / Python / npm 
-- API_Keys=`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`
+- API_Keys=`Put your Groq API Key Here.....`
 
 
 ### Local Setup:
